@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+##足球现状及政府政策
 
-You can use the [editor on GitHub](https://github.com/alexisgaoshen/HAHAHAHAHA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexisgaoshen/HAHAHAHAHA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2014年11月24日，国务院召开全国青少年校园足球工作电视电话会议，中央政治局委员、国务院副总理刘延东在会议上对校园足球作出重要指示，而教育部将主导校园足球，并推出一系列措施推动校园足球进入升级版。
+会议上，教育部部长袁贵仁表示，将完善政策，形成校园足球激励机制；把学生足球特长水平纳入学生综合素质评价，写实记录，形成档案，供上一层学校招生参考。 同时，足球也将纳入学校体育课程教学体系，作为体育课必修内容，为学生提供学习足球的机会。教育部的目标是力争到2017年在全国扶持建设2万所左右中小学校足球特色学校和200个高校高水平足球队，并形成区域特色，拟建设30个左右校园足球试点区县。此外，按照全国校园足球竞赛方案，组织开展小学、初中、高中、大学四级联赛。据了解，足球还将纳入体育教师“国培计划”，计划在2015年全国初步培训6000名校园足球师资。
+2014年11月26日电 教育部部长袁贵仁26日在全国青少年校园足球工作电视电话会议上表示，将完善政策，形成校园足球激励机制。把学生足球特长水平纳入学生综合素质评价，写实记录，形成档案，供上一层学校招生参考。
